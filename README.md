@@ -101,29 +101,9 @@ Architecture-first guidelines for building backend APIs and services. Built arou
 
 ---
 
-## Repository Structure
-
-```
-docs/
-├── flutter/            Flutter & Dart guidelines
-│   ├── 00-index.md     ← start here
-│   ├── domain/
-│   ├── application/
-│   ├── infrastructure/
-│   └── presentation/
-└── go/                 Go guidelines
-    ├── README.md        ← start here
-    ├── 01-project-layout.md
-    └── ...
-```
-
----
-
 ## Contributing
 
-These guidelines are a living document. They should evolve as the team learns, as the ecosystem matures, and as we encounter new problems worth solving consistently.
-
-**To improve an existing guideline:** Open a PR with the change and a brief explanation of why. Link to examples or prior art where helpful.
+I don't expect contributions to this repository, but they are very welcome 💙.
 
 **To add a new technology:** Create a `docs/<technology>/` directory and open a PR. Include at minimum an index file that covers the architecture philosophy, project structure, and the most impactful patterns for that stack.
 
