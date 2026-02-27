@@ -21,16 +21,16 @@ We follow a **four-layer architecture**:
 | `infrastructure` | External world: APIs, databases, local storage              |
 | `presentation`   | UI, state management (Bloc), routing                        |
 
-See [Architecture](./architecture.md) for the full explanation and dependency rules.
+See [Architecture](./01-architecture.md) for the full explanation and dependency rules.
 
 ## Table of Contents
 
 ### Cross-Cutting Concerns
-- [Architecture](./architecture.md) — Layer diagram, DDD concepts, dependency rules
-- [Folder Structure](./folder-structure.md) — Project layout and file organization
-- [Naming Conventions](./naming-conventions.md) — Files, classes, variables, suffixes
-- [Error Handling](./error-handling.md) — `Either`, `TaskEither`, domain errors
-- [State Management](./state-management.md) — Bloc overview and usage rules
+- [Architecture](./01-architecture.md) — Layer diagram, DDD concepts, dependency rules
+- [Folder Structure](./02-folder-structure.md) — Project layout and file organization
+- [Naming Conventions](./03-naming-conventions.md) — Files, classes, variables, suffixes
+- [Error Handling](./04-error-handling.md) — `Either`, `TaskEither`, domain errors
+- [State Management](./05-state-management.md) — Bloc overview and usage rules
 
 ### Domain Layer
 - [Overview](./domain/domain.md)
