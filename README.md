@@ -103,7 +103,7 @@ Architecture-first guidelines for building backend APIs and services. Built arou
 
 ## Contributing
 
-I don't expect contributions to this repository, but they are very welcome 💙.
+I don't expect contributions to this repository, **but they are very welcome** 💙.
 
 **To add a new technology:** Create a `docs/<technology>/` directory and open a PR. Include at minimum an index file that covers the architecture philosophy, project structure, and the most impactful patterns for that stack.
 
